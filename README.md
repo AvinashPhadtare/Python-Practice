@@ -11,12 +11,8 @@ A consolidated collection of small Python practice projects — CLI games, algor
 | [games/number-guessing](games/number-guessing) | Basic number guessing game (C) |
 | [games/timed-math-quiz](games/timed-math-quiz) | Timed math quiz for practicing quick arithmetic under time pressure |
  
-## 📅 Daily Practice
-| Project | Description |
-|---|---|
-| [daily-practice](daily-practice) | Daily-solved Python practice questions, organized by topic (strings, recursion, OOP, etc.) |
  
-## 🗂️ Misc
+## 🗂️ Miscellaneous 
 | Project | Description |
 |---|---|
 | [misc/fake-news-generator](misc/fake-news-generator) | Tool to generate, modify, and save fake news data for practice purposes |
